@@ -15,6 +15,7 @@ import os
 import pandas as pd
 
 DEFAULT_DB = "censoescolar.db"
+DEFAULT_CSV = "microdados_ed_basica_2024.csv"
 DEFAULT_CHUNK = 200000
 
 # Candidate column names that might exist in different CSV versions.
